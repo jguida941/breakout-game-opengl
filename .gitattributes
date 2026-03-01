@@ -1,0 +1,5 @@
+# Keep language stats focused on game source code.
+# These folders are shared/vendor support content needed for building.
+Libraries/** linguist-vendored
+Utilities/** linguist-vendored
+3DShapes/** linguist-vendored
