@@ -1,7 +1,7 @@
-# CS330 Breakout (8-2 Assignment)
+# Breakout Game (C++ / OpenGL)
 
 ## Overview
-This project is a 2D Breakout-style game for CS-330, built in C++ with GLFW and OpenGL (immediate mode).
+This project is a 2D Breakout-style arcade game built in C++ with GLFW and OpenGL (immediate mode).
 
 ## Screenshots
 ### Main Menu
