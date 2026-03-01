@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# JetBrains
+.idea/
+*.iml
+
+# Visual Studio user files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / MSBuild outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+
+# VC database / IntelliSense
+*.VC.db
+*.VC.opendb
+*.ipch
+*.pch
+*.obj
+*.idb
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.cache
+
+# CMake build trees (if ever used)
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
